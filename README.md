@@ -38,7 +38,7 @@ The analysis is performed on the Foodpanda Analysis Dataset, which includes:
 Clone the Repository:
 
 Bash
-git clone https://github.com/sajid-ahsan-seyam-26/foodpanda-data-science.git
+git clone https://github.com/sajid-ahsan-seyam-26/foodpanda-data-science-.git
 Install Dependencies:
 
 Bash
