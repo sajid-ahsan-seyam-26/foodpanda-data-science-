@@ -39,7 +39,8 @@ Clone the Repository:
 
 Bash
 git clone https://github.com/sajid-ahsan-seyam-26/foodpanda-data-science-.git
-Install Dependencies:
+
+# Install Dependencies:
 
 Bash
 pip install pandas
